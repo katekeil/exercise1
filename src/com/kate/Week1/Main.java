@@ -1,3 +1,4 @@
+/*Kate Keil, 1/17/19, Exercise 1, city/weather info*/
 package com.kate.Week1;
 
 public class Main {
